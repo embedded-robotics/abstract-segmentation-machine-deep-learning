@@ -1,4 +1,4 @@
-# How to Run the Code
+# Abstract Segmentation using Deep Learning and Machine Learning
 
 This repo deals with the training of a GRU model to develop an abstract segementation system. Once the model is trained, the user can input any abstract (mostly medical related abstracts) and the model will classify each sentence of the abstract into one of the classes namely `Background`, `Objective`, `Methods`, `Conclusions`, `Results`.
 
